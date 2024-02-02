@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/zhenni/static/css/main.a4e54024.css",
-    "main.js": "/zhenni/static/js/main.eed11f72.js",
+    "main.js": "/zhenni/static/js/main.6f136f45.js",
     "static/js/787.6971d1b3.chunk.js": "/zhenni/static/js/787.6971d1b3.chunk.js",
     "static/media/hashirshoaeb.png": "/zhenni/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "static/media/zhenni.png": "/zhenni/static/media/zhenni.cc6896a793c39514b141.png",
     "static/media/zundou.png": "/zhenni/static/media/zundou.603cafaab33df0058392.png",
     "index.html": "/zhenni/index.html",
     "main.a4e54024.css.map": "/zhenni/static/css/main.a4e54024.css.map",
-    "main.eed11f72.js.map": "/zhenni/static/js/main.eed11f72.js.map",
+    "main.6f136f45.js.map": "/zhenni/static/js/main.6f136f45.js.map",
     "787.6971d1b3.chunk.js.map": "/zhenni/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4e54024.css",
-    "static/js/main.eed11f72.js"
+    "static/js/main.6f136f45.js"
   ]
 }

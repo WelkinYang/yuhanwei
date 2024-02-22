@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/yuhanwei/static/css/main.fe927caf.css",
-    "main.js": "/yuhanwei/static/js/main.c1bd1833.js",
+    "main.js": "/yuhanwei/static/js/main.100385c8.js",
     "static/js/787.4b24f717.chunk.js": "/yuhanwei/static/js/787.4b24f717.chunk.js",
     "static/media/hashirshoaeb.png": "/yuhanwei/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
     "static/media/yuhanwei.png": "/yuhanwei/static/media/yuhanwei.393d14405dac74171ac0.png",
-    "static/media/Keio-university-vector-logo.png": "/yuhanwei/static/media/Keio-university-vector-logo.9ab1b3a40270e815b89f.png",
+    "static/media/Keio-university-vector-logo.png": "/yuhanwei/static/media/Keio-university-vector-logo.e07a71a7e6abe4e5ef15.png",
     "index.html": "/yuhanwei/index.html",
     "main.fe927caf.css.map": "/yuhanwei/static/css/main.fe927caf.css.map",
-    "main.c1bd1833.js.map": "/yuhanwei/static/js/main.c1bd1833.js.map",
+    "main.100385c8.js.map": "/yuhanwei/static/js/main.100385c8.js.map",
     "787.4b24f717.chunk.js.map": "/yuhanwei/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.c1bd1833.js"
+    "static/js/main.100385c8.js"
   ]
 }
